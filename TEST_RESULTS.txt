@@ -1,0 +1,4 @@
+Public sanitized v2.2 snapshot. 2026-11-19
+python -m unittest discover -q
+229 tests passed in 0.298s.
+Offline/mocked checks only; live API and Windows UI verification not performed here.
